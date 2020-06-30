@@ -9,7 +9,7 @@
   "author": "Andrew Morovati",
   "license": "MIT",
   "dependencies": {
-    "lodash": "~3.10.1",
+    "lodash": "~4.17.15",
     "ent-hooks": "~0.0.3",
     "bluebird": "~2.11.0",
     "glib": "~1.0.2"
