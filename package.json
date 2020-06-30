@@ -1,0 +1,20 @@
+{
+  "name": "@entrinsik/informer-schema-changer",
+  "version": "1.0.0",
+  "description": "Handler for the import.beforeMerge hook, to change bundle schemaIds to the default schemaId of the target datasource",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Morovati",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "~3.10.1",
+    "ent-hooks": "~0.0.3",
+    "bluebird": "~2.11.0",
+    "glib": "~1.0.2"
+  },
+  "devDependencies": {
+    "@entrinsik/informer": "git@github.com:entrinsik-org/i5.git#5.4.0"
+  }
+}
