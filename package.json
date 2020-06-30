@@ -1,6 +1,6 @@
 {
   "name": "@entrinsik/informer-schema-changer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Handler for the import.beforeMerge hook, to change bundle schemaIds to the default schemaId of the target datasource",
   "main": "index.js",
   "scripts": {
